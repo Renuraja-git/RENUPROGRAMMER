@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: bisque;
+}
+h1{
+    text-transform:uppercase;
+}
+.heading{
+    width: 400px;
+    height: 50px;
+    background-color: rgb(162, 196, 183);
+    color: rgb(226, 6, 6);
+    border-radius: 10px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
